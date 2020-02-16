@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">food1</string>
+    <string name="generate_qr_code">generate_qr_code</string>
+</resources>
